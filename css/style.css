@@ -271,6 +271,13 @@ h6 {
           flex: 1 1 50%;
 }
 
+.form__error {
+  color: red;
+  font-size: 0.75rem;
+  padding-left: 0.625rem;
+  padding-top: 0.3125rem;
+}
+
 .button {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
